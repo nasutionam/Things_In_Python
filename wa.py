@@ -1,3 +1,3 @@
 import pywhatkit
 
-pywhatkit.sendwhatmsg("+6283179525349","test",00,36)
+pywhatkit.sendwhatmsg("+6283","test",00,36)
